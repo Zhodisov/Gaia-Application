@@ -1,0 +1,9 @@
+<resources>
+    <color name="colorPrimary">#0FA874</color>
+    <color name="gray">#A9A9A9</color>
+    <color name="darker_gray">#444444</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="login_sh">#0F6531</color>
+
+</resources>

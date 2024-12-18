@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.GaiaPrototypeV2" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.GaiaPrototypeV2" parent="Base.Theme.GaiaPrototypeV2">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

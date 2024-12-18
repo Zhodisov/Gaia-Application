@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gaia Prototype V2</string>
+    <string name="start_text">GAIA</string>
+    <string name="todo">TODO</string>
+</resources>
