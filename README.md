@@ -23,3 +23,47 @@ Exemple :
 - Par défaut, c'est `10.0.2.2:9200` (10.0.2.2 est un tunnel vers 127.0.0.1 car l'émulateur Android Studio utilise déjà 127.0.0.1) ![alt text](image-1.png)
 - Lancer le projet
 
+
+
+
+
+
+
+
+
+
+
+
+PDF FOOTAGE :
+
+
+![image](https://github.com/user-attachments/assets/494e81dd-ae8a-4766-a10f-8fca69cf0109)
+
+![image](https://github.com/user-attachments/assets/8a80cefb-e9ea-4da2-8867-06739636016a)
+
+![image](https://github.com/user-attachments/assets/86b3ebda-62db-4e04-a472-76b8955fba95)
+
+![image](https://github.com/user-attachments/assets/cc6124ec-cbb1-4a16-bdf9-4985ce0aed8e)
+
+![image](https://github.com/user-attachments/assets/80e34903-fc29-4a56-b541-de0daec0f279)
+
+![image](https://github.com/user-attachments/assets/bddbe3e3-ebbd-4670-ae39-792f8b17c38c)
+
+![image](https://github.com/user-attachments/assets/e0b7ce37-c829-4f37-ac34-7ba6621e6aea)
+
+![image](https://github.com/user-attachments/assets/76e48136-2713-4ff4-a276-d064a9e41dee)
+
+
+
+
+DIAGRAMS : 
+
+![image](https://github.com/user-attachments/assets/a74b0923-b6d0-44e2-b708-d434f1d0ef03)
+
+![image](https://github.com/user-attachments/assets/e26a41a1-42e7-48ae-8546-504bec75b4d9)
+
+![image](https://github.com/user-attachments/assets/97ddc2ad-337a-426b-bc41-eea3d55f8b38)
+
+![image](https://github.com/user-attachments/assets/8d4507ff-5ecf-47d0-bae1-e65a26bd5a41)
+
+![image](https://github.com/user-attachments/assets/a40196b2-0fe9-465c-9d58-13d77e03dcab)
